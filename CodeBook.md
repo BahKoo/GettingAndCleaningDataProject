@@ -15,6 +15,7 @@
    - LAYING
  
 #### Features (numeric) ####
+These features represent the averages of measurements taken for each subject and activity
 
  - tBodyAcc-mean()-X
  - tBodyAcc-mean()-Y
